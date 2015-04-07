@@ -1,0 +1,1 @@
+Instalar la aplicacion Setup que viene dentro de la carpeta CH341SER para los drivers en Windows para Arduino NANO V3 . 
